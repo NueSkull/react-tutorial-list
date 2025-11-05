@@ -28,7 +28,7 @@ function App() {
 
   return (
     <>
-      <h1>My To-Do List</h1>
+      <h1>My To-Do List!</h1>
       <p>
         Welcome to the to-do list! Make note of your daily tasks, and tick them
         off as you go!
